@@ -1,0 +1,7 @@
+total 0
+-rw-r--r--  1 mabelly  staff  0 Jun  9 21:37 test_file.txt
+Filesystem    1024-blocks     Used Available Capacity  iused    ifree %iused  Mounted on
+/dev/disk0s2    244277768 87456092 156565676    36% 21928021 39141419   36%   /
+devfs                 180      180         0   100%      626        0  100%   /dev
+map -hosts              0        0         0   100%        0        0  100%   /net
+map auto_home           0        0         0   100%        0        0  100%   /home
